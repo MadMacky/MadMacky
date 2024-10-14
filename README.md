@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MadMacky
+- 👀 I’m interested in IoT
+- 🌱 I’m currently learning coding Arduino and ESP32
+- 💞️ I’m looking to collaborate on Arduino and ESP32 projects
+- ⚡ Fun fact: Water is wet!
